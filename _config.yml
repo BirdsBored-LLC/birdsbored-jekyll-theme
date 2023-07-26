@@ -1,5 +1,21 @@
 title: BirdsBored theme
 description: This is a standard theme for birdsbored.com.
 show_downloads: true
-google_analytics:
+google_analytics: G-3BHTTERNVH
 theme: birdsbored-jekyll-theme
+urls: 
+  - text: Home
+    url: /
+  - text: loginerror page
+    url: /loginerror.html
+  - text: example
+    url: /links.html
+firebaseconfig:
+  apiKey: AIzaSyBoVF-NeNYc-6Vrw95fBO2KImNocyQ5LCE
+  authDomain: birdsbored-251ff.firebaseapp.com
+  databaseURL: https://birdsbored-251ff-default-rtdb.firebaseio.com
+  projectId: birdsbored-251ff
+  storageBucket: birdsbored-251ff.appspot.com
+  messagingSenderId: 151584811216
+  appId: 1:151584811216:web:284d64517e4f9d11ccd6d5
+  measurementId: G-3BHTTERNVH
